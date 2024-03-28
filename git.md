@@ -29,3 +29,5 @@
 `git diff` : Affiche les différences entre les fichiers dans l'index et la version actuelle.
 
 `git rm` [fichier] : Supprime un fichier du répertoire de travail et de l'index.
+
+`git commit --amend -m` "Nouveau message de commit" : Renomme le dernier commit
