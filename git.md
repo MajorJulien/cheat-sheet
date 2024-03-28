@@ -30,4 +30,6 @@
 
 `git rm` [fichier] : Supprime un fichier du répertoire de travail et de l'index.
 
+`git rf` [répertoire] : Supprime un répertoire de travail et de l'index
+
 `git commit --amend -m` "Nouveau message de commit" : Renomme le dernier commit
