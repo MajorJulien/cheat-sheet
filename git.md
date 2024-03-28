@@ -16,6 +16,8 @@
 
 `git checkout` [nom_de_branche] : Permet de basculer entre les branches.
 
+`get switch` [nom_de_branche] : Permet de basculer sur la branche souhaitée
+
 `git merge` [nom_de_branche] : Fusionne une branche spécifiée dans la branche actuelle.
 
 `git push` [remote] [branche] : Envoie les commits locaux vers un dépôt distant.
