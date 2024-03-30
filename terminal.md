@@ -1,3 +1,9 @@
+<div align="center">
+
+**[Index](readme.md) | [**Commandes Git**](markdown.md) | [**Balises Markdown**](markdown.md) | [**Raccourcis Système**](shortcut.md)**
+
+# Terminal</div>
+
 `pwd` : Affiche le chemin du répertoire courant.
 
 `cd` [chemin] : Change le répertoire courant.
