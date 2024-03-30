@@ -1,6 +1,6 @@
 <div align="center">
 
-**[Index](readme.md) | [**Commandes Git**](markdown.md) | [**Balises Markdown**](markdown.md) | [**Raccourcis Système**](shortcut.md)**
+**[Index](README.md) | [**Commandes Git**](markdown.md) | [**Balises Markdown**](markdown.md) | [**Raccourcis Système**](shortcut.md)**
 
 # Terminal</div>
 
