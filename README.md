@@ -1,9 +1,9 @@
 # Index
 
-[**Commandes Git**](chemin/vers/git2.md)
+[**Commandes Git**](git2.md)
 
-[**Balises Markdown**](chemin/vers/markdown.md)
+[**Balises Markdown**](markdown.md)
 
-[**Raccourcis Système**](chemin/vers/shortcut.md)
+[**Raccourcis Système**](shortcut.md)
 
-[**Raccourcis Terminal**git](chemin/vers/terminal.md)
+[**Raccourcis Terminal**](terminal.md)
