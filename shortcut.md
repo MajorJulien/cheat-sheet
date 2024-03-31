@@ -2,8 +2,12 @@
 
 **[Index](README.md) | [**Commandes Git**](git2.md) | [**Balises Markdown**](markdown.md) | [**Raccourcis Terminal**](terminal.md)**
 
-# Shortcut system
 </div>
+
+<br>
+<div align="center"><img src="https://image.noelshack.com/fichiers/2024/13/7/1711900522-cheat-sheet-mint.png" style="width: 1000px;"/></div>
+<br>
+<br>
 
 - Ctrl + Alt + Suppr : Ouvre le gestionnaire de tâches pour quitter ou redémarrer le système.
 - Alt + F1 : Ouvre le menu principal.
