@@ -1,9 +1,10 @@
-# Index
 
-[**Commandes Git**](git2.md)
+<div align="center">
 
-[**Balises Markdown**](markdown.md)
+[![](https://image.noelshack.com/fichiers/2024/13/7/1711904789-cheat-sheet-git-copie.png)](git2.md)
+</div>
 
-[**Raccourcis Système**](shortcut.md)
+<div align="center">
 
-[**Raccourcis Terminal**](terminal.md)
+[![](https://image.noelshack.com/fichiers/2024/13/7/1711904944-cheat-sheet-mint-copie.png)](shortcut.md)
+</div>
