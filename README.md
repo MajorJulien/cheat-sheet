@@ -7,12 +7,12 @@
 
 [![GitHubCLI](/readme-pics/github-cli-readme.png)](/git/github-cli.md)
 
-[![Lazygit](png)](/git/lazygit.md)
+[![Lazygit](/readme-pics/lazygit-readme.png)](/git/lazygit.md)
 
-[![Terminal](png)](/terminal/terminal.md)
+[![Terminal](/readme-pics/terminal-readme.png)](/terminal/terminal.md)
 
 [![link shortcut](/readme-pics/shortcut-readme.png)](/shortcut-sys/shortcut.md)
 
-[![Markdown](png)](/markdown/markdown.md)
+[![Markdown](/readme-pics/markdown-readme.png)](/markdown/markdown.md)
 
 </div>

@@ -2,7 +2,8 @@
 
 **[Index](/README.md) | [Git](/git/git.md) | [GitFlow](/git/gitflow.md) | [GitHub CLI](/git/github-cli.md) | [LazyGit](/git/lazygit.md) | [Raccourcis Système](/shortcut-sys/shortcut.md) | [Raccourcis Terminal](/terminal/terminal.md)**
 
-# Markdown
+![banner](/markdown/markdown-pics/markdown.png)
+
 </div>
 
 **Titres :** Les titres sont créés en utilisant un ou plusieurs symboles dièse **#** suivis du texte du titre. Par exemple :

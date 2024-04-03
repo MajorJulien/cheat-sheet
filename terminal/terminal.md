@@ -2,7 +2,13 @@
 
 **[Index](/README.md) | [Git](/git/git.md) | [GitFlow](/git/gitflow.md) | [GitHub CLI](/git/github-cli.md) | [LazyGit](/git/lazygit.md) | [Raccourcis Système](/shortcut-sys/shortcut.md) | [Markdown](/markdown/markdown.md)**
 
-# Terminal</div>
+<br>
+
+![banner](/terminal/terminal-pics/terminal.png)
+
+<br>
+
+</div>
 
 `pwd` : Affiche le chemin du répertoire courant.
 
