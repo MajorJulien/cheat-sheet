@@ -94,6 +94,13 @@ Télécharge les changements d'un dépôt distant mais ne fusionnera pas la bran
 <button class="btn" data-clipboard-target="#git-command"></button>
 <pre><code id="git-command">git fetch</code></pre>
 
+**Récupére les dernières modifications depuis un dépôt distant dans votre dépôt local :**
+
+L'option "--prune" est utilisée pour supprimer les références locales qui n'existent plus sur le dépôt distant.
+
+<button class="btn" data-clipboard-target="#git-command"></button>
+<pre><code id="git-command">git fetch --prune</code></pre>
+
 **Fusionner un dépôt distant avec le dépôt local dans Git :**
 
 <button class="btn" data-clipboard-target="#git-command"></button>
@@ -364,3 +371,10 @@ Exécute git rebase de manière interactive en utilisant le drapeau -i. Ouvre l'
 - f, fixup = comme "squash", mais supprimer le message de journal de ce commit
 - x, exec = exécuter une commande (le reste de la ligne) en utilisant le shell
 - d, drop = supprimer le commit`
+
+**Enregistrer temporairement les modifications non validées dans un répertoire de travail :**
+
+Les modifications enregistrées sont placées dans une pile de stash.
+
+<button class="btn" data-clipboard-target="#git-command"></button>
+<pre><code id="git-command">git stash</code></pre>
