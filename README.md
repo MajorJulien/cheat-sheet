@@ -1,18 +1,18 @@
 
 <div align="center">
 
-[![Git](/git/git-pics/git.png)](git.md)
+[![Git](/git/git-pics/git.png)](/git/git.md)
 
-[![GitFlow](png)](gitflow.md)
+[![GitFlow](png)](/git/gitflow.md)
 
-[![GitHubCLI](png)](github-cli.md)
+[![GitHubCLI](png)](/git/github-cli.md)
 
-[![Lazygit](png)](lazygit.md)
+[![Lazygit](png)](/git/lazygit.md)
 
-[![Terminal](png)](terminal.md)
+[![Terminal](png)](/terminal/terminal.md)
 
-[![link shortcut](/shortcut-sys/shortcut-sys-pics/mint.png)](shortcut.md)
+[![link shortcut](/shortcut-sys/shortcut-sys-pics/mint.png)](/shortcut-sys/shortcut.md)
 
-[![Markdown](png)](markdown.md)
+[![Markdown](png)](/smarkdown/markdown.md)
 
 </div>
