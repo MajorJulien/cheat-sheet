@@ -1,12 +1,13 @@
 <div align="center">
 
-**[Index](README.md) | [GitHub CLI](github-cli.md) | [Commandes Markdown](markdown.md) | [Raccourcis Système](shortcut.md) | [Raccourcis Terminal](terminal.md) | [LazyGit](lazygit.md)**
+**[Index](README.md) | [GitFlow](/git/gitflow.md) | [GitHub CLI](/git/github-cli.md) | [LazyGit](/git/lazygit.md) | [Raccourcis Système](/shortcut-sys/shortcut.md) | [Raccourcis Terminal](/terminal/terminal.md) | [Markdown](/markdown/markdown.md)**
 
 </div>
 
 <br>
-<div align="center"><img src="https://image.noelshack.com/fichiers/2024/13/6/1711822520-cheat-sheet-git.png" style="width: 1000px;"/></div>
-<br>
+
+![banner](/git/git-pics/git.png)
+
 <br>
 
 # Configuration

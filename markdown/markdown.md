@@ -1,6 +1,6 @@
 <div align="center">
 
-**[Index](README.md) | [Git](git2.md) | [GitHub CLI](github-cli.md) | [Raccourcis Système](shortcut.md) | [Raccourcis Terminal](terminal.md) | [LazyGit](lazygit.md)**
+**[Index](README.md) | [Git](/git/git.md) | [GitFlow](/git/gitflow.md) | [GitHub CLI](/git/github-cli.md) | [LazyGit](/git/lazygit.md) | [Raccourcis Système](/shortcut-sys/shortcut.md) | [Raccourcis Terminal](/terminal/terminal.md)**
 
 # Markdown
 </div>

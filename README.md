@@ -1,10 +1,18 @@
 
 <div align="center">
 
-[![](https://image.noelshack.com/fichiers/2024/13/7/1711904789-cheat-sheet-git-copie.png)](git2.md)
-</div>
+[![Git](/git/git-pics/git.png)](git.md)
 
-<div align="center">
+[![GitFlow](png)](gitflow.md)
 
-[![](https://image.noelshack.com/fichiers/2024/13/7/1711904944-cheat-sheet-mint-copie.png)](shortcut.md)
+[![GitHubCLI](png)](github-cli.md)
+
+[![Lazygit](png)](lazygit.md)
+
+[![Terminal](png)](terminal.md)
+
+[![link shortcut](/shortcut-sys/shortcut-sys-pics/mint.png)](shortcut.md)
+
+[![Markdown](png)](markdown.md)
+
 </div>

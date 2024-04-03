@@ -1,12 +1,13 @@
 <div align="center">
 
-**[Index](README.md) | [**Git**](git2.md) | [**GitHub CLI**](github-cli.md) | [**Balises Markdown**](markdown.md) | [**Raccourcis Terminal**](terminal.md) | [LazyGit](lazygit.md)**
+**[Index](README.md) | [Git](/git/git.md) | [GitFlow](/git/gitflow.md) | [GitHub CLI](/git/github-cli.md) | [LazyGit](/git/lazygit.md) | [Raccourcis Terminal](/terminal/terminal.md) | [Markdown](/markdown/markdown.md)**
 
 </div>
 
 <br>
-<div align="center"><img src="https://image.noelshack.com/fichiers/2024/13/7/1711900522-cheat-sheet-mint.png" style="width: 1000px;"/></div>
-<br>
+
+![banner](/shortcut-sys/shortcut-sys-pics/mint.png)
+
 <br>
 
 - Ctrl + Alt + Suppr : Ouvre le gestionnaire de tâches pour quitter ou redémarrer le système.
