@@ -6,7 +6,7 @@
 
 </div>
 
-`g ou Enter` : Accéder à l'interface utilisateur de Lazygit.
+`lazygit` : Accéder à l'interface utilisateur de Lazygit.
 
 `h` : Afficher l'aide avec les raccourcis clavier disponibles.
 
