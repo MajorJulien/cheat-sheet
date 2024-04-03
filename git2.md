@@ -1,6 +1,6 @@
 <div align="center">
 
-**[Index](README.md) | [Commandes Markdown](markdown.md) | [**Raccourcis Système**](shortcut.md) | [**Raccourcis Terminal**](terminal.md)**
+[**Index**](README.md) | [**GitHub CLI**](github-cli.md) | **[Commandes Markdown](markdown.md) | [**Raccourcis Système**](shortcut.md) | [**Raccourcis Terminal**](terminal.md)**
 
 </div>
 
