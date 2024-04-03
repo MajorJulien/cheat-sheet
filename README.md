@@ -13,6 +13,6 @@
 
 [![link shortcut](/shortcut-sys/shortcut-sys-pics/mint.png)](/shortcut-sys/shortcut.md)
 
-[![Markdown](png)](/smarkdown/markdown.md)
+[![Markdown](png)](/markdown/markdown.md)
 
 </div>
