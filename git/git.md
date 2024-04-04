@@ -152,6 +152,11 @@ Ajoute et valide les fichiers suivis avec une seule commande en utilisant les op
 <button class="btn" data-clipboard-target="#git-command"></button>
 <pre><code id="git-command">git commit -a -m "message"</code></pre>
 
+**Fusionner les changements de deux branches différentes tout en conservant une trace de l'historique des modifications**
+
+<button class="btn" data-clipboard-target="#git-command"></button>
+<pre><code id="git-command">merge commit</code></pre>
+
 **Voir l'historique des commits dans Git :**
 
 Affiche l'historique des commits du dépôt actuel. Du plus récent au plus ancien.
