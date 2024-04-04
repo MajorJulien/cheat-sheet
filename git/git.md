@@ -450,6 +450,7 @@ Les modifications enregistrées sont placées dans une pile de stash.
 `git hist` : Alias pour **git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short**
 
 `git undo` : Alias pour **git reset --soft HEAD~1**
+
 `git up` : Alias pour **git pull**
 
 `git po` : Alias pour **git push**
