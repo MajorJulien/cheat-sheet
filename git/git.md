@@ -422,3 +422,36 @@ Les modifications enregistrées sont placées dans une pile de stash.
 `git rf` [répertoire] : Supprime un répertoire de travail et de l'index
 
 `git commit --amend -m` "Nouveau message de commit" : Renomme le dernier commit
+
+# Alias
+
+`git co` : Alias pour **git checkout**
+
+`git ci` : Alias pour **git commit**
+
+`git st` : Alias pour **git status**
+
+`git br` : Alias pour **git branch**
+
+`git ci -m` : Alias pour **git commit -m**
+
+`git df` : Alias pour **git diff**
+
+`git lg` : Alias pour **git log --graph --oneline --decorate**
+
+`git amend` : Alias pour **git commit --amend**
+
+`git unstage` : Alias pour **git reset HEAD --**
+
+`git last` : Alias pour **git log -1 HEAD**
+
+`git cp` : Alias pour **git cherry-pick**
+
+`git hist` : Alias pour **git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short**
+
+`git undo` : Alias pour **git reset --soft HEAD~1**
+`git up` : Alias pour **git pull**
+
+`git po` : Alias pour **git push**
+
+`git rbi` : Alias pour **git rebase -i**
