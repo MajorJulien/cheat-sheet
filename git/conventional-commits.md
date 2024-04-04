@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="center"><img width="600"src="https://cdn.hashnode.com/res/hashnode/image/upload/v1620343062221/BFETDzbJj.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"/><p>
+![banner](/git/git-pics/git-conventions-readme.png)
 
 <br>
 
