@@ -55,6 +55,11 @@ Deux boutons cliquable (Retour à l'index et retour en haut de page)*
 
 # Crédits
 
+Merci aux contributeurs du projet Git et GitFlow :
+
+[![Hugo Walandowitsch](https://github.com/hugo-walando.png)](https://github.com/Hugo-walando) [![Shanaz 'Mikko' P.](https://github.com/mikkopet.png)](https://github.com/MikkoPet) [![Gorczyca Jonathan](https://github.com/pirate62.png)](https://github.com/pirate62)
+
+
 # Statut du projet
 
 En cours de développement
