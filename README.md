@@ -36,3 +36,11 @@ Regroupe les alias de raccourcis :
 Regroupe des informations utiles :
 
 - **Conventions Git**
+
+# Utilisation
+
+L'accès aux cheat-sheet s'effectue par un **clic** sur les boutons cliquables.
+
+Un bouton cliquable **"copier"** sur chaque commande est disponible afin d'éviter les raccourcis clavier et améliorer son **workflow**.
+
+Une **table des matières** est disponible en début de page de chaque cheat-sheet afin de rendre la navigation entre eux plus fluide et accessible.
