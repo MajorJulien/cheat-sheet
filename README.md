@@ -14,7 +14,7 @@
 
 # Introduction
 
-Ce dépôt regroupe des cheat-sheet essentiels au développement web, permettant de faciliter la recherche de commandes et d'informations utiles afin d'améliorer son workflow.
+Ce dépôt regroupe des cheat-sheet essentiels au développement web, facilitant la recherche de commandes et d'informations utiles afin d'améliorer son workflow.
 
 # Caractéristiques
 
@@ -27,14 +27,15 @@ Regroupe les commandes de plusieurs outils :
 - **Terminal**
 - **Node.js**
 
-Regroupe les balises :
+Les balises :
+
 - **Markdown**
 
-Regroupe les alias de raccourcis :
+Les raccourcis système :
 
 - **Mint**
 
-Regroupe des informations utiles :
+Des informations utiles :
 
 - **Conventions Git**
 
@@ -42,6 +43,20 @@ Regroupe des informations utiles :
 
 L'accès aux cheat-sheet s'effectue par un **clic** sur les boutons cliquables.
 
-Un bouton cliquable **"copier"** sur chaque commande est disponible afin d'éviter les raccourcis clavier et améliorer son **workflow**.
+Un autre bouton cliquable **"copier"** est disponible pour chaque commande afin d'éviter les raccourcis clavier et fluidifier son **workflow**.
 
-Une **table des matières** est disponible en début de page de chaque cheat-sheet afin de rendre la navigation entre eux plus fluide et accessible.
+Une **table des matières** est disponible en début de chaque page afin de rendre la navigation entre elles plus fluide et accessible.
+
+*À venir :
+Deux boutons cliquable (Retour à l'index et retour en haut de page)*
+
+# Contributions
+
+
+# Crédits
+
+# Statut du projet
+
+En cours de développement
+
+# Licence
