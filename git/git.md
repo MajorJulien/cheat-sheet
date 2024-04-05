@@ -457,4 +457,7 @@ Les modifications enregistrées sont placées dans une pile de stash.
 
 `git rbi` : Alias pour **git rebase -i**
 
-<a href="/git/git.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+<a href="/git/git.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+<a href="#top">Retour en haut de page</a>
+
+<a href="/README.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
