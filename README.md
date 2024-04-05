@@ -1,9 +1,4 @@
-
-<div align="center">
-
 # Cheat-Sheet
-
-</div>
 
 <div style="display: flex; flex-wrap: wrap;">
     <a href="/git/git.md"><img src="/readme-pics/git-readme.png" alt="Git" style="width: 400px; height: auto; margin-right: 10px;"></a>
