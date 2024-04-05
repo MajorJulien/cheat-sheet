@@ -48,3 +48,5 @@ Récupère une branche d'un dépôt distant :
 <button class="btn" data-clipboard-target="#git-command"></button>
 <pre><code id="git-command">git flow feature pull [remote] [branche]</code></pre>
 </div>
+
+<a href="/git/gitflow.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

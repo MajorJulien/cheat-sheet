@@ -79,3 +79,5 @@ code ici```
 ```
 `code ici`
 ```
+
+<a href="/markdown/markdown.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

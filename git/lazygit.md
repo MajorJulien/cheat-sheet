@@ -41,3 +41,5 @@
 `Tab` : Basculer entre les différentes sections de l'interface utilisateur (par exemple, entre la liste des fichiers modifiés et la vue de différences).
 
 `Q` : Quitter Lazygit.
+
+<a href="/git/lazygit.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

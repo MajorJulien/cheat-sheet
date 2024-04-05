@@ -46,3 +46,5 @@
 - F4 : Ouvre le terminal dans le répertoire actuel.
 - F5 : Rafraîchit la vue.
 - F7 : Crée un nouveau dossier.
+
+<a href="/shortcut-sys/shortcut.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

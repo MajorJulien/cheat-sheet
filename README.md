@@ -12,6 +12,16 @@
     <a href="/markdown/markdown.md"><img src="/readme-pics/markdown-readme.png" alt="Markdown" style="width: 400px; height: auto; margin-right: 10px;"></a>
 </div>
 
+# Table des matières
+
+- [Introduction](#introduction)
+- [Caractéristiques](#Caractéristiques)
+- [Utilisation](#Utilisation)
+- [Contributions](#Contributions)
+- [Crédits](#Crédits)
+- [Statut du projet](#Statut-du-projet)
+- [Licence](#Licence)
+
 # Introduction
 
 Ce dépôt regroupe des cheat-sheet essentiels au développement web, facilitant la recherche de commandes et d'informations utiles afin d'améliorer son workflow.
@@ -63,3 +73,5 @@ Merci aux contributeurs du projet Git et GitFlow :
 En cours de développement
 
 # Licence
+
+<a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
