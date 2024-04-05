@@ -56,7 +56,7 @@ Deux boutons cliquable (Retour à l'index et retour en haut de page)*
 
 Merci aux contributeurs du projet Git et GitFlow :
 
-[<img src="https://github.com/Hugo-walando.png" alt="Nom de l'utilisateur GitHub" width="100" height="100">](https://github.com/Hugo-walando) [<img src="https://github.com/mikkopet.png" alt="Nom de l'utilisateur GitHub" width="100" height="100">](https://github.com/MikkoPet) [<img src="https://github.com/pirate62.png" alt="Nom de l'utilisateur GitHub" width="100" height="100">](https://github.com/pirate62)
+[<img src="https://github.com/Hugo-walando.png" alt="Nom de l'utilisateur GitHub" width="50" height="50">](https://github.com/Hugo-walando) [<img src="https://github.com/mikkopet.png" alt="Nom de l'utilisateur GitHub" width="50" height="50">](https://github.com/MikkoPet) [<img src="https://github.com/pirate62.png" alt="Nom de l'utilisateur GitHub" width="50" height="50">](https://github.com/pirate62)
 
 # Statut du projet
 
