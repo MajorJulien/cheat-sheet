@@ -42,4 +42,4 @@
 
 `Q` : Quitter Lazygit.
 
-<a href="/git/lazygit.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+[![Retour en haut de page](/git/git-pics/back-top.png)](#) <a href="/README.md"><img src="/git/git-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

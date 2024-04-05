@@ -74,4 +74,4 @@ N’hésitez pas à adopter cette convention pour rendre vos messages de commit 
 - https://buzut.net/cours/versioning-avec-git/bien-nommer-ses-commits
 - https://les-enovateurs.com/conventional-commits-details-exemples-pratiques
 
-<a href="/git/conventional-commits.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+[![Retour en haut de page](/git/git-pics/back-top.png)](#) <a href="/README.md"><img src="/git/git-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

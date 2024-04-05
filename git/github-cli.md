@@ -50,4 +50,4 @@ Vous pouvez obtenir plus d'informations sur chaque commande en utilisant **gh he
 
 Par exemple, **gh help pr list** vous donnera des informations sur la commande **gh pr list**.
 
-<a href="/git/github-cli.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a><a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+[![Retour en haut de page](/git/git-pics/back-top.png)](#) <a href="/README.md"><img src="/git/git-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

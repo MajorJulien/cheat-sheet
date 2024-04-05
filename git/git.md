@@ -1,3 +1,4 @@
+<div Index="top"></div>
 <div align="center">
 
 **[Index](/README.md) | [GitFlow](/git/gitflow.md) | [GitHub CLI](/git/github-cli.md) | [LazyGit](/git/lazygit.md) | [Conventions](/git/conventional-commits.md) | [Node.js](/node-js/node-js.md) | [Raccourcis Système](/shortcut-sys/shortcut.md) | [Raccourcis Terminal](/terminal/terminal.md) | [Markdown](/markdown/markdown.md)**
@@ -457,7 +458,4 @@ Les modifications enregistrées sont placées dans une pile de stash.
 
 `git rbi` : Alias pour **git rebase -i**
 
-<a href="/git/git.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
-<a href="#top">Retour en haut de page</a>
-
-<a href="/README.md"><img src="/git/git-pics/index.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+[![Retour en haut de page](/git/git-pics/back-top.png)](#) <a href="/README.md"><img src="/git/git-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>

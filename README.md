@@ -74,4 +74,4 @@ En cours de développement
 
 # Licence
 
-<a href="/README.md"><img src="/readme-pics/back-readme.png" alt="Markdown" style="width: 100px; height: auto; margin-right: 10px;"></a>
+[![Retour en haut de page](/git/git-pics/back-top.png)](#)
